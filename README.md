@@ -22,7 +22,7 @@ I'm a passionate Data Scientist with a knack for turning complex data into actio
 - Research-driven ML/NLP prototypes
 
 ### 📫 How to reach me:
-- 📧 jagdish.dapke@example.com *(replace with real email)*
+- 📧 jagdish362@gmail.com
 - 🌐 Portfolio coming soon...
 
 ### 😄 Pronouns:
